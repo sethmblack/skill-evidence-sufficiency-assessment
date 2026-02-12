@@ -1,11 +1,9 @@
 ---
 name: evidence-sufficiency-assessment
-description: 'Determine whether evidence is sufficient to support a claim before publishing,
-  presenting, or deciding. Apply Franklin''s standard of scientific integrity: state
-  what is demonstrated, acknowledge wh...'
+description: 'Determine whether evidence is sufficient to support a claim before publishing, presenting, or deciding. Apply Franklin''s standard of scientific integrity: state what is demonstrated, acknowledge wh...'
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - evidence-sufficiency-assessment
