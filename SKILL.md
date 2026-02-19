@@ -3,8 +3,8 @@ name: evidence-sufficiency-assessment
 description: 'Determine whether evidence is sufficient to support a claim before publishing, presenting, or deciding. Apply Franklin''s standard of scientific integrity: state what is demonstrated, acknowledge what remains uncertain.'
 license: MIT
 metadata:
+  version: 1.0.3948
   author: sethmblack
-  version: 1.0.3947
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - analysis
